@@ -1,3 +1,19 @@
-<h1>Svelte</h1>
+<script>
+import Header from './components/Header.svelte'
+import Nav from './components/Nav.svelte'
+import Footer from './components/Footer.svelte'
 
-<p>Welcome to coding with Svelte!</p>
+
+ </script>
+ 
+ <Header />
+
+ <Nav />
+
+ <main>
+
+ </main>
+
+ <footer>
+ &copy; Rangi 2020
+ </footer>
